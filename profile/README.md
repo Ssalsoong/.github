@@ -1,10 +1,13 @@
-## Members
+## 😎 Members
 
 | ![Sunken](https://avatars.githubusercontent.com/u/10449085?s=96&v=4)  | ![Minkee](https://avatars.githubusercontent.com/u/5203515?s=96&v=4) | ![Dongho](https://avatars.githubusercontent.com/u/208129478?s=96&v=4) | ![JungHyun](https://avatars.githubusercontent.com/u/130948037?s=96&v=4)|
 | :---: | :---: | :---: | :---: |
 |[**강성근**](https://github.com/OrangeSnack)|[**정민기**](https://github.com/minkee009)|[**이동호**](https://github.com/ho991127)|[**김정현**](https://github.com/racoonisdog)|
+<br>
 
+## 📚 Projects
 
+[4Q_Project](https://github.com/Ssalsoong/4QProject)
 <!--
 
 **Here are some ideas to get you started:**
