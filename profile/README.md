@@ -1,4 +1,4 @@
-##  Introduction
+## Members
 
 | ![Sunken](https://avatars.githubusercontent.com/u/10449085?s=96&v=4)  | ![Minkee](https://avatars.githubusercontent.com/u/5203515?s=96&v=4) | ![Dongho](https://avatars.githubusercontent.com/u/208129478?s=96&v=4) | ![JungHyun](https://avatars.githubusercontent.com/u/130948037?s=96&v=4)|
 | :---: | :---: | :---: | :---: |
