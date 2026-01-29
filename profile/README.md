@@ -7,7 +7,8 @@
 
 ## 📚 Projects
 
-[4Q_Project](https://github.com/Ssalsoong/4QProject)
+[Engine](https://github.com/Ssalsoong/4QProject)
+[Scoopy!](https://github.com/Ssalsoong/Scoopy)
 <!--
 
 **Here are some ideas to get you started:**
